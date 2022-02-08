@@ -5,14 +5,16 @@
       "ticker": "GOOG",
       "name": "Google",
       "type": "Tech",
-      "price": 1194.8
+      "price": 1194.8,
+      "inPortfolio": false
     },
     {
       "id": 2,
       "ticker": "FB",
       "name": "Facebook",
       "type": "Tech",
-      "price": 168.85
+      "price": 168.85,
+      "inPortfolio": true
     },
     {
       "id": 3,
@@ -40,28 +42,32 @@
       "ticker": "BAC",
       "name": "Bank of America",
       "type": "Finance",
-      "price": 29.95
+      "price": 29.95,
+      "inPortfolio": false
     },
     {
       "id": 7,
       "ticker": "JPM",
       "name": "JP Morgan",
       "type": "Finance",
-      "price": 114.45
+      "price": 114.45,
+      "inPortfolio": true
     },
     {
       "id": 8,
       "ticker": "C",
       "name": "Citi Bank",
       "type": "Finance",
-      "price": 72.94
+      "price": 72.94,
+      "inPortfolio": true
     },
     {
       "id": 9,
       "ticker": "NKE",
       "name": "Nike",
       "type": "Sportswear",
-      "price": 84.56
+      "price": 84.56,
+      "inPortfolio": false
     },
     {
       "id": 10,
