@@ -5,49 +5,56 @@
       "ticker": "GOOG",
       "name": "Google",
       "type": "Tech",
-      "price": 1194.8
+      "price": 1194.8,
+      "inPortfolio": true
     },
     {
       "id": 2,
       "ticker": "FB",
       "name": "Facebook",
       "type": "Tech",
-      "price": 168.85
+      "price": 168.85,
+      "inPortfolio": true
     },
     {
       "id": 3,
       "ticker": "TWTR",
       "name": "Twitter",
       "type": "Tech",
-      "price": 29.41
+      "price": 29.41,
+      "inPortfolio": true
     },
     {
       "id": 4,
       "ticker": "AMZN",
       "name": "Amazon",
       "type": "Tech",
-      "price": 2013.04
+      "price": 2013.04,
+      "inPortfolio": true
     },
     {
       "id": 5,
       "ticker": "V",
       "name": "Visa",
       "type": "Finance",
-      "price": 150.05
+      "price": 150.05,
+      "inPortfolio": true
     },
     {
       "id": 6,
       "ticker": "BAC",
       "name": "Bank of America",
       "type": "Finance",
-      "price": 29.95
+      "price": 29.95,
+      "inPortfolio": true
     },
     {
       "id": 7,
       "ticker": "JPM",
       "name": "JP Morgan",
       "type": "Finance",
-      "price": 114.45
+      "price": 114.45,
+      "inPortfolio": true
     },
     {
       "id": 8,
@@ -61,14 +68,16 @@
       "ticker": "NKE",
       "name": "Nike",
       "type": "Sportswear",
-      "price": 84.56
+      "price": 84.56,
+      "inPortfolio": true
     },
     {
       "id": 10,
       "ticker": "UAA",
       "name": "Under Armour",
       "type": "Sportswear",
-      "price": 21.07
+      "price": 21.07,
+      "inPortfolio": false
     }
   ]
 }

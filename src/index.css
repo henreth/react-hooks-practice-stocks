@@ -1,18 +1,52 @@
 h1 {
   padding: 2rem;
+  text-align: center;
+
 }
 
 h2 {
   text-align: center;
 }
 
+.card-title {
+  font-size: 17px;
+  margin: 0 auto;
+
+}
+
 .card {
-  width: 50%;
+  width: 40%;
   margin: 0 auto;
   text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.list-container {
+  display: grid;
 }
 
 .list-group {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  grid-column: 1;
+  display:inline-block;
+}
+
+.list-group-left {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  grid-column: 1;
+  display:inline-block;
+}
+
+.list-group-right {
   width: 50%;
   margin: 0 auto;
   text-align: center;
